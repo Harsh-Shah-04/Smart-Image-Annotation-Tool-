@@ -1,0 +1,9 @@
+# Ignore temp/cache/runtime stuff
+__pycache__/
+temp/
+output/
+uploads/
+
+# Ignore old/unrelated repos
+Agentic-AI/
+Old/
